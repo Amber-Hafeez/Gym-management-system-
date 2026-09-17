@@ -1,46 +1,23 @@
-# Gym Management System
-
-A web-based Gym & Fitness Club Management System developed as an internship project.
-
-## Day 1 – Project Setup
-
-The initial project setup has been completed.
-
-### Completed Tasks
-
-- React 19 + Vite project setup
-- Tailwind CSS v4 configured
-- Supabase JavaScript Client v2 added
-- TanStack Query added
-- Basic project folder structure created
-- Supabase environment variables configured
-- `.gitignore` added
-- Project prepared for GitHub development
-
-## Technologies Used
-
-- React 19
-- Vite
-- Tailwind CSS v4
-- Supabase
-- PostgreSQL
-- Supabase Authentication
-- TanStack Query
-- JavaScript
-- Git & GitHub
-
-## Project Structure
-
-```text
-gym-management-system/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── lib/
-│   └── assets/
-├── public/
-├── supabaseClient.js
-├── package.json
-├── vite.config.js
-├── .gitignore
-└── README.md
+Gym Management System
+A web-based Gym Management System developed to manage gym members, memberships, and gym-related operations efficiently.
+Technologies
+React.js
+JavaScript
+Vite
+Supabase
+Git & GitHub
+Week 1 Progress
+Day 1 — Project Setup
+Created the initial React + Vite project.
+Configured the project structure.
+Added Supabase client configuration.
+Added required project dependencies.
+Created the initial README.md.
+Day 2 — Project Structure & Configuration
+Continued the initial project setup.
+Organized the project files and configuration.
+Prepared the project structure for upcoming gym management modules.
+Configured the required files for development.
+Current Status
+Week 1 — Day 2 Completed ✅
+The basic project setup and structure are ready for development of the Gym Management System modules
